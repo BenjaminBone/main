@@ -100,5 +100,9 @@ do
 while (!($result -eq "E"))
 
 #=================================#
+<<<<<<< HEAD
 #End Of Script - Added - Again -Again
+=======
+#End Of Script - Added - Again
+>>>>>>> refs/remotes/origin/master
 #=================================#
